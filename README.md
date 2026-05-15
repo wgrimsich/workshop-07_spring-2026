@@ -26,3 +26,6 @@ What code is there, and what does it do?
 
 The rendered .pdf for the abalone linear model is 
 [here](https://github.com/wgrimsich/workshop-07_spring-2026/blob/main/code/abalone-example.pdf).
+
+The rendered .pdf for the sonadora temperature linear model is
+[here](https://github.com/wgrimsich/workshop-07_spring-2026/blob/main/code/sonadora-temperature-example.pdf)
