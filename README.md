@@ -8,16 +8,21 @@ All READMEs for this class should have the following sections:
 
 ## General information
 
-What is this repo for?
+This repo provides examples of fitting, diagnosing and visualizing linear model predictions.
 
 Whose repo is it? Who is contributing to it?
 
+This is a fork of a repo from the ENVS-193DS-2026 organization.
+
 ## Data and file information
 
-What files are there?
+There is a "data" folder in which data files are stored.
+
+There is a "code" folder in which all code for linear models are stored.
 
 What code is there, and what does it do?
 
 ## Rendered output
 
-Link to the rendered output. Make sure it is a **working url**. You can test this by sharing the url with someone else to open on their computer - if it doesn't work, that means your GitHub pages set up didn't work.
+The rendered .pdf for the abalone linear model is 
+[here](https://github.com/wgrimsich/workshop-07_spring-2026/blob/main/code/abalone-example.pdf).
