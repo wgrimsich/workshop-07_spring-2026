@@ -1,5 +1,5 @@
 ---
-title: "Linear regression: Abalone growth and pH example"
+title: "Linear Regression: Abalone Growth and pH Example"
 author: "Will Grimsich"
 date: "May 15, 2026"
 format:
